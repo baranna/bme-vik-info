@@ -1,0 +1,15 @@
+# Auto-detect text files and perform LF normalization
+* text=auto
+
+# Git-related files
+.gitattributes text
+.gitignore text
+
+# Documentation
+*.md text
+LICENSE text
+
+# Source code
+## C
+*.c text
+*.h text
